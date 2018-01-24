@@ -190,7 +190,7 @@ serverinfo
  */
 module
 {
-	name = "inspircd20"
+	name = "unreal"
 
 	/*
 	 * Some protocol modules can enforce mode locks server-side. This reduces the spam caused by
