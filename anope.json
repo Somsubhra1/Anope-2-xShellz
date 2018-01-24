@@ -1,0 +1,38 @@
+[
+ {
+ "placeholder":"Enter Services host link (Example: services.xshellz.com)",
+ "format":"string",
+ "type": "text",
+ "isMandatory": true,
+ "name": "host"
+ },
+ {
+ "placeholder":"Enter IRCd IP",
+ "format":"string",
+ "type": "text",
+ "isMandatory": true,
+ "name": "ircdip"
+ },
+ {
+ "placeholder":"Enter IRCd password (Enter oper password in case you have used UnrealIRCd-4 Package)",
+ "format":"string",
+ "type": "password",
+ "isMandatory": true,
+ "name": "ircdpass"
+ },
+ {
+ "placeholder":"Enter Oper Name",
+ "format":"string",
+ "type": "text",
+ "isMandatory": true,
+ "name": "opername"
+ },
+ {
+ "placeholder":"Install Anope now",
+ "format":"button",
+ "type": "submit",
+ "isMandatory": "true",
+ "name" : "submit",
+ "value": "Install Anope now."
+ }
+]
